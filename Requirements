@@ -1,0 +1,6 @@
+You'll need to install the following Requirements!:
+
+pip install customtkinter
+pip3 install customtkinter
+pip install pymem
+pip3 install pymem
